@@ -1,0 +1,45 @@
+html{
+    background-color: orangered;
+}
+
+body{
+    background-color: white;
+    width: 600px;
+    padding: 125px;
+    margin: 20px auto;
+    border-radius: 30px;
+}
+
+p{
+    font-size: 25px;
+
+}
+
+input{
+    font-size: 20px;
+}
+
+button{
+    font-size: 25px;
+    padding: 4px 15px;
+    background-color:burlywood;
+    border: 3px solid crimson;
+}
+
+button:hover{
+    color: red;
+    border: 2px solid red;
+    background-color: black;
+}
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 35px;
+}
+
+#answer{
+    color: red;
+}
